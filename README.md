@@ -54,20 +54,10 @@
 ### 📼 Appearance
 
 Servlet과 JSP 기반의 서버 & 클라이언트 프로젝트인 티켓 구매 사이트입니다
-
-<table>
-    <tr>
-       <th>Customer</th>
-       <th>Admin</th>
-    </tr>
-    <tr>
-        ![관리자](https://user-images.githubusercontent.com/65211288/91653164-19361900-ead9-11ea-929e-bc404e9f274e.gif)        
-    </tr>
-    <tr>
-        ![고객](https://user-images.githubusercontent.com/65211288/91653165-1a674600-ead9-11ea-9005-e014d0099563.gif)
-    </tr>
-</table>
-
+![관리자](https://user-images.githubusercontent.com/65211288/91653164-19361900-ead9-11ea-929e-bc404e9f274e.gif)
+![고객](https://user-images.githubusercontent.com/65211288/91653165-1a674600-ead9-11ea-9005-e014d0099563.gif)
+     
+  
 ### 📑 Role & Member
 
 
