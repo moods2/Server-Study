@@ -75,7 +75,7 @@ Servlet과 JSP 기반의 서버 & 클라이언트 프로젝트인 티켓 구매 
 <table>
     <tr>
         <th width="16%">업무 / 구성원</th>
-        <th width="14%">윤대웅</th><th width="14%">전혜원</th><th width="14%">한시연</th><th width="14%">장정우</th><th width="14%">천정주</th><th width="14%"></th>         
+        <th width="14%">윤대웅</th><th width="14%">전혜원</th><th width="14%">한시연</th><th width="14%">장정우</th><th width="14%">천정주</th><th width="14%">신승환</th>         
     </tr>
     <tr>
         <th>프로젝트 기획</th>
