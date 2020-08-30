@@ -12,21 +12,21 @@
 <table>
     <tr>
         <th>프로젝트 명 </th>
-        <th>DoubleDragonCenter</th>
+        <th>At-Ticket</th>
         <th>개발기간</th>
-        <th>2020.05.29. ~ 2020.06.17.</th>
+        <th>2020.07.17. ~ 2020.08.28.</th>
     </tr>
     <tr>
         <th>프로젝트 성격</th>
         <th>세미 프로젝트</th>
         <th>개발인원</th>
         <th>팀 / 6명<br>
-          (<a href="https://github.com/moods2">윤대웅｜<a href="https://github.com/prohwww">전혜원</a>｜<a href="https://github.com/gsdldpwl">이예지</a>｜<a href="https://github.com/Kang-KyoungWon">강경원</a>｜<a href="https://github.com/lisamj-persimmon">유민정</a>｜<a href="https://github.com/a45hvn">최재성</a>)
+          (<a href="https://github.com/moods2">윤대웅｜<a href="https://github.com/prohwww">전혜원</a>｜<a href="https://github.com/gsdldpwl">한시연</a>｜<a href="https://github.com/Kang-KyoungWon">장정우</a>｜<a href="https://github.com/lisamj-persimmon">천정주</a>｜<a href="https://github.com/a45hvn">신승환</a>)
       </th>
     </tr>
       <tr>
         <th>프로젝트 개요</th>
-        <th>교육센터 운영 프로그램</th>
+        <th>티켓 사이트</th>
         <th>개발환경&nbsp;</th>
         <th>Windows10</th>
     </tr>
@@ -35,7 +35,7 @@
     </tr>  
     <tr>
         <th>개발언어</th>
-        <th colspan="3">Java(JDK 1.8), Oracle SQL </th>
+        <th colspan="3">Java(JDK 1.8), Oracle SQL, HTML5, JavaScript, CSS3, jQuery</th>
     </tr>
     <tr>
         <th>형상관리</th>
@@ -43,84 +43,90 @@
     </tr>
     <tr>
         <th>개발도구</th>
-        <th colspan="3">Eclipse JEE, Oracle SQL Developer, eXERD</th>
+        <th colspan="3">Eclipse JEE, Visual Studio Code, Oracle SQL Developer, eXERD, Aws</th>
     </tr>
     <tr>
         <th>사용기술</th>
-        <th colspan="3">JDBC</th>
+        <th colspan="3">JSP, Servlet, jQuery, Bootstrap, Ajax</th>
     </tr>
 </table>
 
 ### 📼 Appearance
 
-관계형 데이터베이스 기반의 교육센터 운영 프로그램입니다.
+Servlet과 JSP 기반의 서버 & 클라이언트 프로젝트인 티켓 구매 사이트입니다
 
- ### 👋 Admin
- ![관리자](https://user-images.githubusercontent.com/65211288/84998831-500fba80-b18b-11ea-8693-5bf7ed5c55e1.gif)
- ### 👋 Student
- ![교육생](https://user-images.githubusercontent.com/65211288/85092567-e0e6a480-b224-11ea-8ae1-5c6f002032cb.gif)
- ### 👋 Teacher
-![교사](https://user-images.githubusercontent.com/65211288/85092653-1f7c5f00-b225-11ea-8242-c6f5def17d17.gif)
+<table>
+    <tr>
+       <th>Customer</th>
+       <th>Admin</th>
+    </tr>
+    <tr>
+        <th><img src="asset/tramap-basket-task-customer.png"></th>
+        <th><img src="asset/tramap-basket-task-admin.png"></th>
+    </tr>
+    <tr>
+        <th><img src="asset/tramap-basket-customer.gif"></th>
+        <th><img src="asset/tramap-basket-admin.gif"></th>
+    </tr>
+</table>
+
 ### 📑 Role & Member
 
 
 <table>
     <tr>
         <th width="16%">업무 / 구성원</th>
-        <th width="14%">윤대웅</th><th width="14%">전혜원</th><th width="14%">이예지</th><th width="14%">강경원</th><th width="14%">유민정</th><th width="14%">최재성</th>         
+        <th width="14%">윤대웅</th><th width="14%">전혜원</th><th width="14%">한시연</th><th width="14%">장정우</th><th width="14%">천정주</th><th width="14%"></th>         
     </tr>
     <tr>
         <th>프로젝트 기획</th>
-        <th colspan="2">개요작성</th>
-        <th colspan="4">회의, 의견제안</th>
+        <th>개요작성</th>
+        <th colspan="5">아이디어 회의, 의견제안</th>
     </tr>
     <tr>
         <th>요구분석</th>
-        <th colspan="2">문서작성,회의</th>
-        <th colspan="4">회의, 의견제안</th>
+        <th>개요작성</th>
+        <th colspan="5">아이디어 회의, 의견제안, 문서작성</th>
     </tr>
     <tr>
         <th>데이터설계</th>
-        <th colspan="2">문서작성,회의</th>
-        <th colspan="4">회의, 의견제안</th>
+        <th>개요작성</th>
+        <th colspan="5">아이디어 회의, 의견제안, 문서작성</th>
     </tr>
     <tr>
         <th>기능명세서</th>
-        <th colspan="2">문서작성,회의</th>
-        <th colspan="4">회의, 의견제안</th>
+        <th colspan="5">문서작성</th>
+        <th>문서취합</th>
     </tr>
     <tr>
         <th>화면설계</th>
-        <th colspan="2">관리자</th>        
-        <th>교육생</th>
-        <th colspan="2">교사</th>  
-        <th>관리자</th>    
+        <th colspan="6">회의 및 의견제안, 화면설계 작성</th>
+    </tr>
     <tr>
         <th>소스(코딩)</th>
-        <th>관리자부분 <br>개발 및 화면<br>설계, 전체<br>소스 수정</th>
-        <th>관리자부분 <br>개발 및 화면<br>설계, 전체<br>소스 취합</th>
-        <th>교육생부분 <br>개발 및 화면<br>설계, 관리자 <br>
-        <th>교사부분개발<br>및 화면설계, <br>교사 소스 취합</th>
-        <th>교사부분개발<Br></th>
-        <th>관리자부분 <br>개발 및 데이터수정</th>
+        <th>가이드 선택, <br>가이드 페이지, <br>결제페이지, <br>가이드 후기 <br>게시판</th>
+        <th>숙박관리, <br>회원관리, <br> 1:1문의, <br>게시판, FAQ</th>
+        <th>일자별 관광지 <br>선택, 총 여행 <br>후기 게시판</th>
+        <th>숙소선택, <br>숙소후기 <br>게시판</th>
+        <th>일자, 나라, <br>항공권, 테마, <br>관광지 선택, <br>동행자 게시판</th>
+        <th>나라관리, <br>항공관리, <br>테마관리, <br>관광지관리, <br>자유게시판</th>
     </tr>
     <tr>
         <th>발표자료</th>
-        <th>발표보조 및<br>자료작성</th>
-        <th>의견제안, 화면캡쳐</th>
-        <th>의견제안, 화면캡쳐</th>
-        <th>발표</th>
         <th>의견제안</th>
-        <th>의견제안, 화면캡쳐</th>
+        <th>발표</th>
+        <th>발표보조, <br>자료작성</th>
+        <th>발표보조</th>
+        <th colspan="2">의견제안</th>
     </tr>
     <tr>
         <th>역할</th>
-        <th>관리자<br> 부분 개발, <br>버그수정, <br>문서작업, <br>발표보조</th>
-        <th>관리자<br> 부분 개발, <br>소스취합, <br>문서작업, <br>버그수정</th>
-        <th>교육생부분 개발, <br>문서작업, <br>의견제안</th>
-        <th>교사부분<br> 개발, <br>소스취합, <br>발표</th>
-        <th>교사부분<br> 개발,  <br>의견제안</th>
-        <th>관리자부분 개발, <br>데이터수정, <br>문서작성</th>
+        <th>의견제안, <br>문서개요작성, <br>화면설계, <br>DB설계, <br>소스취합</th>
+        <th>의견제안, <br>화면설계, <br>발표</th>
+        <th>의견제안, <br>화면설계, <br>발표자료 제작, <br>발표보조</th>
+        <th>의견제안, <br>화면설계, <br>발표보조</th>
+        <th>의견제안, <br>화면설계</th>
+        <th>의견제안, <br>화면설계, <br>문서취합</th>
     </tr>
 </table>
 
