@@ -1,2 +1,2 @@
-# Server study
+# java 복습 및 수업 복습용
 게시판 만들기 연습용
